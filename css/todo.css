@@ -1,0 +1,26 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    list-style-type: decimal;
+}
+.fream{
+    border: 5px solid rgb(168, 148, 148);
+    margin: 100px auto 10px auto;
+    width: 50%;
+}
+.fream1{
+    margin: 5px auto;
+    width: 50%;
+}
+
+li > h3,li > button{
+    display: inline-block;
+}
+
+li > h3{
+    width : 300px;
+}
+
+.input{
+    margin: 10px auto 0px auto;
+    width: 80%;
+}
